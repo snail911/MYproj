@@ -1,0 +1,17 @@
+
+
+.color-gradient {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to right, black 48%, #004080);
+  z-index: -1;
+}
+
+.footer-content {
+  position: relative;
+  z-index: 1;
+
+}
